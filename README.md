@@ -14,4 +14,8 @@ Hello world，我是 MochiNeko。
 我是一隻麻糬貓咪，探尋物理中純粹且深刻的事物
 知識不僅僅是用來學習的，而是用來超越的
 
+[個人頁面](https://www.notion.so/MochiNeko-5d74bee908144682a6adf96a038d8da9)
+
+[麻糬圖庫](https://photos.app.goo.gl/mY4iVvjmxoU3aYcV6)
+
 共に夜明けを見ましょう
