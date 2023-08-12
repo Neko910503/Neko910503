@@ -1,5 +1,11 @@
 # 麻糬好香
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lxfriday/lxfriday/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lxfriday/lxfriday/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lxfriday/lxfriday/output/github-contribution-grid-snake.svg">
+</picture>
+
 ![image](https://user-images.githubusercontent.com/66580195/188151450-6fd869bb-f2d5-47ae-982d-13a5f3230bde.png)
 ![image](https://user-images.githubusercontent.com/66580195/188148742-7c30ae13-187a-4a75-86ae-43ed950efa92.png)
 ---
